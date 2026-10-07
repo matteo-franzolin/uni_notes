@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "5bc0233d1f77014c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a64467a3867093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcaac58e870e44eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elementi di Ingegneria del Software/testing_documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testing_documentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6208390f6c39940",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6140c8b1f12849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4b58d21a31943a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2abc01377f791932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bf52876d8472f62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "07ca7a1ecf0dbcf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "169a96a7d4073a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc88fce7a2b62f28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teoria dei circuiti/3. Introduzione alle reti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. Introduzione alle reti"
+            }
+          },
+          {
+            "id": "acfc5ddca1034426",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teoria dei circuiti/3. Introduzione alle reti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Introduzione alle reti"
+            }
+          },
+          {
+            "id": "8a75d7e7a0bf4f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3154440bc9ddffa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1300e62060062094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teoria dei circuiti/3. Introduzione alle reti.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Introduzione alle reti"
+            }
+          },
+          {
+            "id": "6d6cf8c2b1c8d0ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fcaac58e870e44eb",
+  "lastOpenFiles": [
+    "Elementi di Ingegneria del Software/project_documentation.md",
+    "Teoria dei circuiti/1. Corrente.md",
+    "Elementi di Ingegneria del Software/project_overview.md",
+    "Elementi di Ingegneria del Software/testing_documentation.md",
+    "Fisica 1/Cheatsheet corpi rigidi.md",
+    "Fisica 1/Corpi rigidi.md",
+    "Fisica 1",
+    "Elementi di Ingegneria del Software",
+    "Teoria dei circuiti/2. Tensione.md",
+    "Teoria dei circuiti/3. Introduzione alle reti.md",
+    "Teoria dei circuiti",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
