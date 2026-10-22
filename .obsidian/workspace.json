@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elementi di Ingegneria del Software/testing_documentation.md",
+                "file": "Fondamenti di elettronica/4. Circuiti con MOSFET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing_documentation"
+              "title": "4. Circuiti con MOSFET"
             }
           }
         ]
@@ -198,18 +198,47 @@
   },
   "active": "fcaac58e870e44eb",
   "lastOpenFiles": [
-    "Elementi di Ingegneria del Software/project_documentation.md",
-    "Teoria dei circuiti/1. Corrente.md",
-    "Elementi di Ingegneria del Software/project_overview.md",
+    "Fondamenti di elettronica/3.1 Transistor MOSFET.md",
+    "Fondamenti di elettronica/4. Circuiti con MOSFET.md",
+    "Fondamenti di elettronica/2.2 Diodo.md",
+    "Fondamenti di elettronica/Slide/2c.Il transistor MOSFET.pdf",
+    "Fondamenti di elettronica/1. Semiconduttori.md",
+    "Fondamenti di elettronica/2.1 Giunzione pn.md",
+    "Fondamenti di elettronica/Slide/2b.Giunzione pn e Diodo.pdf",
+    "Fondamenti di elettronica/Slide/3a.Segnali Digitali.pdf",
+    "Fondamenti di elettronica/Slide/3b.Invertitore.pdf",
+    "Fondamenti di elettronica/Slide/0.Introduzione allelettronica.pdf",
+    "Fondamenti di elettronica/Slide/1.Reti elettriche.pdf",
+    "Fondamenti di elettronica/Slide/2a.Semiconduttori.pdf",
+    "Fondamenti di elettronica/Slide/2d.Circuiti con MOSFET.pdf",
+    "Fondamenti di elettronica/Slide",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2a.Semiconduttori.pdf.md",
+    "Dati e Algoritmi/Teoria/5. Algoritmi di Sorting.md",
+    "Dati e Algoritmi/Teoria/4. Mappe e Dizionari.md",
+    "Dati e Algoritmi/Teoria/3. Priority Queues.md",
+    "Dati e Algoritmi/Teoria/1. Nozioni fondamentali.md",
+    "Dati e Algoritmi/Teoria/2. Alberi.md",
+    "Dati e Algoritmi/Teoria/7. Complessità.md",
+    "Dati e Algoritmi/Teoria/6. Grafi e Algoritmi di Visita.md",
     "Elementi di Ingegneria del Software/testing_documentation.md",
-    "Fisica 1/Cheatsheet corpi rigidi.md",
-    "Fisica 1/Corpi rigidi.md",
-    "Fisica 1",
-    "Elementi di Ingegneria del Software",
-    "Teoria dei circuiti/2. Tensione.md",
-    "Teoria dei circuiti/3. Introduzione alle reti.md",
-    "Teoria dei circuiti",
-    "Welcome.md",
-    "create a link.md"
+    "Esami passati/Elementi di Ingegneria del Software/testing_documentation.md",
+    "Esami passati/Elementi di Ingegneria del Software/project_overview.md",
+    "Esami passati/Elementi di Ingegneria del Software/project_documentation.md",
+    "Fondamenti di elettronica/Semiconduttori.md",
+    "Fisica 2/Formulario/5. circuiti rl.jpg",
+    "Fisica 2/Formulario/6. circuiti lc e rlc.jpg",
+    "Fisica 2/Formulario/4. campo magnetico pt.2.jpg",
+    "Fisica 2/Formulario/3. campo magnetico.jpg",
+    "Fisica 2/Formulario/1. campo elettrico.jpg",
+    "Fisica 2/Formulario/2. circuiti rc.jpg",
+    "Esami passati/Fondamenti di controlli automatici/Trasformata di Laplace.md",
+    "Esami passati/Fondamenti di controlli automatici/Trasformata Z.md",
+    "Esami passati/Fondamenti di controlli automatici/Tipologie di esercizi.md",
+    "Esami passati/Fondamenti di controlli automatici/Note da aggiungere.md",
+    "Esami passati/Fondamenti di controlli automatici/Luogo delle radici.md",
+    "Esami passati/Fondamenti di controlli automatici/Esercizi/Linearizzazione.md",
+    "Esami passati/Fondamenti di controlli automatici/Criterio di Routh.md"
   ]
 }
